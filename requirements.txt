@@ -1,0 +1,6 @@
+chromadb==0.4.14
+psycopg2==2.9.10
+pydantic_ai==0.1.8
+pydantic_graph==0.1.8
+python-dotenv==1.1.0
+Requests==2.32.3
